@@ -1,0 +1,9 @@
+# Start
+User-agent: Googlebot
+User-agent: YandexBot
+Disallow: /dir
+Disallow: /file.htm
+
+User-agent: *
+Disallow: 
+# Finish
