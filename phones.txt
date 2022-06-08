@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 1) Xiaomi p20
 2) IPhone 11
@@ -11,3 +12,17 @@
 10) Xioami p40
 11) Redmi 8
 12) Oppo n100
+=======
+1) Xiaomi p20
+2) IPhone 11
+3) IPhone 12
+4) Samsung s22
+5) Xioami p40
+6) Redmi 8
+7) IPhone 11
+8) IPhone 12
+9) Samsung s22
+10) Xioami p40
+11) Redmi 8
+12) Oppo n100
+>>>>>>> apple_pay
